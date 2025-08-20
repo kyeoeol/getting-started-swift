@@ -1,7 +1,5 @@
-# Get started with Swift concurrency
-Swift Concurrency, introduced in Swift 5.5, brings new concepts like async/await, Actor, and Task that make asynchronous programming more intuitive and safe.
-
-This repository serves as personal learning space for Swift Concurrency, where I document knowledge gained through study, store code examples used in real projects, and organize implementation tips and pitfalls encountered along the way. I also collect helpful articles and save various practice codes to build Swift Concurrency learning archive.
+# Get started with Swift
+This repository serves as personal learning space for Swift, where I document knowledge gained through study, store code examples used in real projects, and organize implementation tips and pitfalls encountered along the way. I also collect helpful articles and save various practice codes to build Swift learning archive.
 
 1. <a href="https://github.com/kyeoeol/getting-started-swift-concurrency/blob/main/001-meet-async-await-in-swift.md">Meet async/await in Swift</a>
 2. <a href="https://github.com/kyeoeol/getting-started-swift-concurrency/blob/main/002-discover-concurrency-in-swiftui.md">Discover concurrency in SwiftUI</a>
@@ -9,7 +7,7 @@ This repository serves as personal learning space for Swift Concurrency, where I
 <br>
 
 ## 📝 Articles
-*Collection of helpful articles and resources related to Swift Concurrency.*
+*Collection of helpful articles and resources related to Swift.*
 
 - <a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/">The Swift Programming Language: Concurrency</a> - Concurrency, perform asynchronous operations.
 - <a href="Get started with Swift concurrency">Get started with Swift concurrency</a> - Discover how you can started with Swift concurrency, debug your tasks and actors, explore the latest tools, and much more.
