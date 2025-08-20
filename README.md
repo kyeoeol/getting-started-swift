@@ -17,7 +17,7 @@ This repository serves as personal learning space for Swift, where I document kn
 ## 💻 Codes
 *Code examples will be added here.*
 
-### 1. Defining Async Properties
+#### 1. Defining Async Properties
 ```swift
 extension UIImage {
     var thumbnail: UIImage? {
@@ -29,7 +29,7 @@ extension UIImage {
 }
 ```
 
-### 2. Using Continuations with Delegate Pattern
+#### 2. Using Continuations with Delegate Pattern
 ```swift
 class ViewController: UIViewController {
     private var activeContinuation: CheckedContinuation<[Post], Error>?
