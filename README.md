@@ -11,6 +11,7 @@ This repository serves as personal learning space for Swift Concurrency, where I
 ## 📝 Articles
 *Collection of helpful articles and resources related to Swift Concurrency.*
 
+- <a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/">The Swift Programming Language: Concurrency</a> - Concurrency, perform asynchronous operations.
 - <a href="Get started with Swift concurrency">Get started with Swift concurrency</a> - Discover how you can started with Swift concurrency, debug your tasks and actors, explore the latest tools, and much more.
 
 <br>
