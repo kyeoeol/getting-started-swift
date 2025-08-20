@@ -4,6 +4,7 @@ Swift Concurrency, introduced in Swift 5.5, brings new concepts like async/await
 This repository serves as personal learning space for Swift Concurrency, where I document knowledge gained through study, store code examples used in real projects, and organize implementation tips and pitfalls encountered along the way. I also collect helpful articles and save various practice codes to build Swift Concurrency learning archive.
 
 1. <a href="https://github.com/kyeoeol/getting-started-swift-concurrency/blob/main/001-meet-async-await-in-swift.md">Meet async/await in Swift</a>
+2. <a href="https://github.com/kyeoeol/getting-started-swift-concurrency/blob/main/002-discover-concurrency-in-swiftui.md">Discover concurrency in SwiftUI</a>
 
 <br>
 
