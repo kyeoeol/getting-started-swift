@@ -16,7 +16,7 @@ This repository serves as personal learning space for Swift, where I document kn
 <br>
 
 ## 💻 Codes
-*Code examples will be added here.*
+*Swift code examples that can be directly used in projects.*
 
 #### 1. Defining Async Properties
 ```swift
