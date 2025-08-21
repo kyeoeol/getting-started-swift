@@ -74,3 +74,31 @@ extension ViewController: PeerSyncDelegate {
     }
 }
 ```
+
+#### 3. Creating Your Own AsyncSequence
+```swift
+class QuakeMonitor {
+    var quakeHandler: (Quake) -> Void
+    func startMonitoring()
+    func stopMonitoring()
+}
+
+let quakes = AsyncStream(Quake.self) { continuation in
+    let monitor = QuakeMonitor()
+    monitor.quakeHandler = { quake in
+        continuation.yield(quake)
+    }
+    continuation.onTermination = { @Sendable _ in
+        monitor.stopMonitoring()
+    }
+    monitor.startMonitoring()
+}
+
+let significantQuakes = quakes.filter { quake in
+    quake.magnitude > 3
+}
+
+for await quake in significantQuakes {
+    ...
+}
+```
