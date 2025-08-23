@@ -25,6 +25,7 @@ This repository serves as personal learning space for Swift, where I document kn
 3. <a href="https://github.com/kyeoeol/swift-programming-language/blob/main/003-use-async-await-with-urlsession.md">Use async/await with URLSession</a>
 4. <a href="https://github.com/kyeoeol/swift-programming-language/blob/main/004-meet-asyncsequence.md">Meet AsyncSequence</a>
 5. <a href="https://github.com/kyeoeol/swift-programming-language/blob/main/005-meet-distributed-actors-in-swift.md">Meet distributed actors in Swift</a> ![review later](https://img.shields.io/badge/review%20later-DC2626)
+6. <a href="https://github.com/kyeoeol/swift-programming-language/blob/main/006-visualize-and-optimize-swift-concurrency.md">Visualize and optimize Swift concurrency</a> ![review later](https://img.shields.io/badge/review%20later-DC2626)
 
 <br>
 
